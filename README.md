@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero-v3.webp" alt="Firefly / @zitann2020 — Past the terminator. Into the unknown." width="100%" />
+  <img src="assets/hero-v4.webp" alt="Firefly / @zitann2020 — Past the terminator. Into the unknown." width="100%" />
 </p>
 
 I build small tools for Windows.
